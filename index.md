@@ -1,4 +1,4 @@
 ---
-title: Bem Vindos ao Cientific!
+title: Bem Vindos ao SCientific!
 ---
 
