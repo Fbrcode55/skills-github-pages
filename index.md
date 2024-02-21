@@ -1,4 +1,4 @@
 ---
-title: Bem Vindos ao Cientific Blog!
+title: Bem Vindos ao Cientific!
 ---
 
